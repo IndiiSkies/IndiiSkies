@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IndiiSkies
-- 👀 I’m interested in ... programming and video game-> modding, tech/diy stuff.
+- 👀 I’m interested in ... programming and video games-> modding, tech/diy stuff.
 - 🌱 I’m currently learning ... ?
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me ... contact info in the side.
