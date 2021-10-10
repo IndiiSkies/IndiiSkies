@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+Yes, I work on the happyfamilyok website. I don't own the buisness. (well ofc, im only 18)
 <!---
 IndiiSkies/IndiiSkies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
