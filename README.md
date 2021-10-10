@@ -7,7 +7,7 @@
 ==============
 
 Thanks for visiting my github profile. I work mainly on private repositories and I usually only publish stuff when I think it benifits everyone. 
-Yes, I work on the happy family website. It's a family owned business after all. also, I don't own the buisness. (well ofc, im only 18 and this restaurant has been around longer than I have. wow what a surprise right. 😲) My contributions to the happy family website is I want it to be more customer oriented. That's about it. Nothing much else to say.
+Also, I also work on the happy family website. It's a family owned business after all. My contributions to the site is I want it to be more customer oriented. That's about it. Nothing much else to say.
 
 <!---
 IndiiSkies/IndiiSkies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
