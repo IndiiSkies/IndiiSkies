@@ -6,7 +6,7 @@
 
 ==============
 
-Thanks for visiting my github profile. I work mainly on private repositories and I only publish stuff when I think it benifits everyone. 
+Thanks for visiting my github profile. I work mainly in private repositories and I only publish stuff when I think it benifits everyone. 
 Also, I work with the happy family website as a side project. It's a family owned business `owned by my parents` after all. My focus is bringing the website more closer to the customers. That's about it. Nothing much else to say.
 
 <!---
