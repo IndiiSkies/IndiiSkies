@@ -19,3 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 ==============
 # Support my work
+## Donate via:
+- cryptocurrency
+![IndiiSkies's Cryptocurrency Donation Address](./cryptoaddr.png)
