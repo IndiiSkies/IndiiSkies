@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 ![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
 
 ![IndiiSkies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndiiSkies&count_private=true&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndiiSkies&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ==============
 # Support my work
