@@ -27,6 +27,12 @@ Developer #600,375
 
 🔌0 plugins installed
 ************************************************************************************************
+
+Most Used Languages
+- Nuxt
+- Tailwind css
+- Javascript
+
 ![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
 
 # Want to support my work?
