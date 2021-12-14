@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 Thanks for visiting my github profile. I work mainly in private repositories and I only publish stuff when I think it benifits everyone. I also work with the happy family website as a side project.
 
 ************************************************************************************************
-Developer #600,375
+# Developer #600,375
       
 🗓2 years on Netlify
 
