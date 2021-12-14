@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 Thanks for visiting my github profile. I work mainly in private repositories and I only publish stuff when I think it benifits everyone. I also work with the happy family website as a side project.
 
 ************************************************************************************************
+![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
+
 # Developer #600,375
       
 🗓2 years on Netlify
@@ -32,8 +34,6 @@ Most Used Languages
 - Nuxt
 - Tailwind css
 - Javascript
-
-![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
 
 # Want to support my work?
 You can donate via:
