@@ -15,7 +15,8 @@ Thanks for visiting my github profile. I work mainly in private repositories and
 ![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
 
 # Developer #600,375
-      
+This year,
+
 🗓2 years on Netlify
 
 ✨2 new sites
