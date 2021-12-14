@@ -16,18 +16,40 @@ IndiiSkies/IndiiSkies is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-IndiiSkies Netlify Stats for 2021 https://your-year-on.netlify.com/indiiskies/214dd6421096/
 
+
+
+
+
+************************************************************************************************
+Developer #600,375
+
+
+█   █ █   █    █   █ ████  ███  ████      ███  ██  █    ██  █ ████ █████ █    █ ████ █   █
+██ ██ █   █    █   █ █    █   █ █   █    █   █ ██  █    ██  █ █      █   █    █ █    █   █
+█ █ █  ███      ███  █    █   █ █   █    █   █ █ █ █    █ █ █ █      █   █    █ █     ███ 
+█   █   █        █   ███  █████ ████     █   █ █ █ █    █ █ █ ███    █   █    █ ███    █  
+█   █   █        █   █    █   █ █ █      █   █ █  ██    █  ██ █      █   █    █ █      █  
+█   █   █        █   █    █   █ █  █     █   █ █  ██    █  ██ █      █   █    █ █      █  
+█   █   █        █   ████ █   █ █   █     ███  █   █    █   █ ████   █   ████ █ █      █  
+      
+🗓2 years on Netlify
+
+✨2 new sites
+
+🏗154 builds
+
+🏆4 day build streak
+
+🚀4 deploys on Friday
+
+🔌0 plugins installed
+************************************************************************************************
 ![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
 
-![IndiiSkies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndiiSkies&count_private=true&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndiiSkies&langs_count=8)
-
-
 ==============
-# Support my work
-## Donate via:
+# Want to support my work?
+You can donate via:
 - cryptocurrency
 
 ![IndiiSkies's Cryptocurrency Donation Address](./cryptaddr.PNG)
