@@ -15,6 +15,9 @@ Thanks for visiting my github profile. I work mainly in private repositories and
 IndiiSkies/IndiiSkies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![IndiiSkies Netlify Stats for 2021](https://your-year-on.netlify.com/indiiskies/214dd6421096/)
+
 ![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
 
 ![IndiiSkies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndiiSkies&count_private=true&show_icons=true&theme=merko)
