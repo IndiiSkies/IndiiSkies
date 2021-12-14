@@ -32,7 +32,7 @@ This year,
 source: https://your-year-on.netlify.com/indiiskies/214dd6421096/
 ************************************************************************************************
 
-Most Used Languages
+Most Used
 - Nuxt
 - Tailwind css
 - Javascript
