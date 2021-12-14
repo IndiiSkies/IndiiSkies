@@ -8,7 +8,8 @@ IndiiSkies/IndiiSkies is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![IndiiSkies's header](./Screenshot_1.png)
+![IndiiSkies's header](./banner.png)
+
 Thanks for visiting my github profile. I work mainly in private repositories and I only publish stuff when I think it benifits everyone. I also work with the happy family website as a side project.
 
 ************************************************************************************************
