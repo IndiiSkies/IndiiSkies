@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ![IndiiSkies's header](./banner.png)
 
-Thanks for visiting my github profile. I work mainly in private repositories and I only publish stuff when I think it benifits everyone. I also work with the happy family website as a side project.
+I work mainly in private repositories and I only publish stuff when I think it benifits everyone. I also work with the happy family website as a side project.
 
 ************************************************************************************************
 ![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
