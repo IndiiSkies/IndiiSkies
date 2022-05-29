@@ -42,7 +42,9 @@ Most Used
 - Buffalo, New York
 -  ? somewhere in china (some long time ago) ?
 - (^v time gap, might be missing info here)
+- Oklahoma City, Oklahoma
 - Norman, Oklahoma
+- Stillwater, Oklahoma
 - Dallas, Texas
 - Manhattan, New York
 - Kittanning, Pennsylvania
