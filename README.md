@@ -38,9 +38,12 @@ Most Used
 - Tailwind css
 - Javascript
 
-# Travel History ✈️
+# Travel History ✈️ `this list may not be complete!`
+- Buffalo, New York
 -  ? somewhere in china (some long time ago) ?
-- Oklahoma
-- Texas
-- New York
-- Pennsylvania
+- (^v time gap, might be missing info here)
+- Norman, Oklahoma
+- Dallas, Texas
+- Manhattan, New York
+- Kittanning, Pennsylvania
+
