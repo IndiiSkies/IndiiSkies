@@ -38,10 +38,11 @@ Most Used
 - Tailwind css
 - Javascript
 
-# Want to support my work?
-You can donate via:
-- cryptocurrency
+# Travel History ✈️
+-  ? somewhere in china (some long time ago) ?
+- Oklahoma
+- Texas
+- New York
+- Pennsylvania
+- 
 
-![IndiiSkies's Cryptocurrency Donation Address](./cryptaddr.PNG)
-
-Address: 0x1D914694c6e8FAebC6B439798531A35c7B68c02D
