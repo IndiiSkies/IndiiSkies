@@ -38,7 +38,7 @@ Most Used
 - Tailwind css
 - Javascript
 
-# Travel History ✈️ `this list may not be complete!`
+# Travel History ✈️
 - Buffalo, New York
 -  ? somewhere in china (some long time ago) ?
 - (^v time gap, might be missing info here)
