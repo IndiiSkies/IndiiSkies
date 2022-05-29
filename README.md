@@ -44,5 +44,3 @@ Most Used
 - Texas
 - New York
 - Pennsylvania
-- 
-
