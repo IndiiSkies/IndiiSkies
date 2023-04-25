@@ -16,26 +16,8 @@ I work mainly in private repositories and I only publish stuff when I think it b
 ![IndiiSkies's Profile Views](https://komarev.com/ghpvc/?username=IndiiSkies)
 
 # Developer #600,375
-This year,
 
-🗓2 years on Netlify
-
-✨2 new sites
-
-🏗154 builds
-
-🏆4 day build streak
-
-🚀4 deploys on Friday
-
-🔌0 plugins installed
-
-source: https://your-year-on.netlify.com/indiiskies/214dd6421096/
-************************************************************************************************
-
-Most Used
-- Nuxt
-- Tailwind css
-- Javascript
+---
+I am working on creating a website to update and store all of my project files. this will take some time.
 
 
